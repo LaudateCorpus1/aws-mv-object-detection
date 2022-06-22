@@ -11,7 +11,7 @@ imutils==0.5.3
 jmespath==0.10.0
 meraki==1.3.0
 multidict==5.0.0
-numpy==1.18.2
+numpy==1.22.0
 opencv-python==4.2.0.34
 paho-mqtt==1.5.0
 Pillow==8.0.1
